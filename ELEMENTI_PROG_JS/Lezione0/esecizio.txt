@@ -1,0 +1,10 @@
+Crea una struttura del file System di un sito
+
+Crea una pagina html chiamata index
+
+Collega un file di script alla pagina
+
+allìinterno del file js inserisci i tuoi dati in ogni singola
+ variabile (nome, eta,indirizzo, dataNascita) e presentati
+ all'interno della console (es:ciao, mi chiamo pippo, sono nato 
+ il 01/01/1991 e oggi ho 33 anni))
